@@ -1,0 +1,135 @@
+=== SEO Quick Images ===
+Contributors: WP Seo Plugins
+Donate link:
+Tags: seo, images, automatic images, seo images, quick images, insert images
+Requires at least: 4.7
+Tested up to: 6.1.1
+Stable tag: 1.3.5
+Requires PHP: 7.1
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
+
+SEO Images is a powerful plugin that helps you add images in your wordpress posts, based on titles. Enhance your content with a lot of images!
+
+== Description ==
+
+SEO Quick Images is a powerful plugin that helps you add images in your wordpress posts, based on titles. Enhance your content with a lot of images! SEO Images automates insertion of images in Wordpress posts.
+
+For make SEO Images works you have to create an account in wpseoplugins.org and generate an API KEY. This can be easily done in settings page of SEO Images. When API KEY is generated you can use this powerful plugin.
+
+From settings page you have 2 methods for generate API KEY, login and registration. Both of them perform a call to api.wpseoplugins.org using email, password, name and surname. All of your data is treated according to our privacy policy (https://wpseoplugins.org/privacy-policy/) and our terms and conditions (https://wpseoplugins.org/terms-conditions/).
+
+== Installation ==
+
+Using the plugin is easy. Install and activate the plugin. Then signup to receive an API key from the SEO Plugins Settings page.
+
+Done. You can now go into any post, and automagically add images to your posts.
+
+== Upgrade Notice ==
+
+= 1.3.5 =
+Fixes on Gutenbergg
+
+= 1.3.4 =
+Fixes on show author
+
+= 1.3.3 =
+Minor bugfixes
+
+= 1.3.1 =
+Adding settings link to plugins page
+Redirect to login page after plugin enabling
+
+= 1.2.3 =
+Thumbnail selection
+
+= 1.2.2 =
+Session implementation, minor fixes on error messages
+
+= 1.2.1 =
+Changed logic for showing thumbnails inside article
+
+= 1.2.0 =
+Minor fixes stop words logic
+
+= 1.1.9 =
+Fixes for caption shortcode
+
+= 1.1.8 =
+Fixes for Gutenberg
+
+= 1.1.7 =
+Stripped tags in titles
+
+= 1.1.6 =
+Minor fixes
+
+= 1.1.5 =
+Stop word list
+
+= 1.1.4 =
+Minor fixes
+
+= 1.1.3 =
+Most of the business logic is moved into backend (api.wpseoplugins.org)
+
+= 1.1.2 =
+Minor fixes
+
+= 1.1.1 =
+Custom settings page
+
+= 1.1.0 =
+Centralized login page (SSO) for all plugin owned by wpseoplugins.org
+
+= 1.0.8 =
+In fetch phase added show more to load more images
+
+= 1.0.7 =
+Draft saving when images are added
+
+= 1.0.6 =
+Splitting plugin workflow in 2 phases: fetch and insert
+
+= 1.0.5 =
+Creative commons filter
+
+= 1.0.4 =
+minor fixes
+
+= 1.0.3 =
+Version in metabox
+
+= 1.0.2 =
+Added alt, title, caption, author
+
+= 1.0 =
+
+
+== Changelog ==
+
+= 1.0 =
+
+
+== Frequently Asked Questions ==
+
+= How do I use the plugin? =
+
+Simply activate the plugin, go to plugin settings page on the left sidebar "SEO Plugins" menu. create an account or login to your account. that's it!
+
+Once you got an API KEY you can use plugin by clicking fetch images button in SEO Images metabox displayed inside post.php in wp-admin.
+
+Then you got 9 images for each title in you post and you have to select one of them for each title and click insert button.
+
+If you want to see more images just click fetch more button.
+
+Every bunch of images for each title has a cost of 1 credit. With your API KEY you got 10 credits for free. After you can buy credits in wpseoplugins.org with your account.
+
+== Donations ==
+
+If you want to donate, paypal seomantis@gmail.com
+
+== Screenshots ==
+
+/assets/screen1.png
+/assets/screen2.png
